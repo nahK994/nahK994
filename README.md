@@ -1,5 +1,5 @@
 ## 👋 :nerd_face: Hello
-<img src="https://github.com/nahK994/nahK994/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/> <br/>
+<img src="asdf.jpg" height="200" width="300"/> <br/>
 
 ```python
 class ShomiKhan:
