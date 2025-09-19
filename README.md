@@ -1,5 +1,5 @@
 ## 👋 :nerd_face: Hello
-<img src="asdf.jpg" height="200" width="300"/> <br/>
+<img src="asdf.jpeg" height="200" width="300"/> <br/>
 
 ```python
 class ShomiKhan:
@@ -10,9 +10,9 @@ class ShomiKhan:
         ]
         self.skills = {
             "languages": ["Python", "Go", "Javascript", "C++", "Bash"],
-            "backend": ["Django", "DRF", "FastAPI", "Gin", "RabbitMQ", "Redis", "PostgreSQL", "REST", "gRPC"],
-            "frontend": ["React", "Nextjs", "Angular", "HTML", "TailwindCSS"],
-            "cloud_&_devops": ["Docker", "Nginx", "Linux", "AWS"],
+            "backend": ["Django", "FastAPI", "Gin", "RabbitMQ", "Redis", "PostgreSQL"],
+            "frontend": ["Nextjs", "Angular", "HTML", "TailwindCSS"],
+            "cloud_&_devops": ["Docker", "Nginx", "AWS"],
             "tools": ["VSCode", "Pycharm", "Postman"]
         }
         self.hobbies = [
